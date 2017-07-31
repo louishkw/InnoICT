@@ -1,8 +1,31 @@
 # InnoICT
 1. _header.php   
-### 所有php共用的檔，包含html資料(msgcenter.php除外)
+###### 所有php共用的檔，包含html資料(msgcenter.php除外)
 2. _nav.php
-### 所有php共用的檔，包含導覽列(Navigation Bar)
+###### 所有php共用的檔，包含導覽列(Navigation Bar)
 3. _footer.php
-### 所有php共用的檔，包含footer(網頁底部的資料列)
-  
+###### 所有php共用的檔，包含footer(網頁底部的資料列)
+4. cancer.php
+###### 在首頁(index.php)中，按下不同類型醫科後會跳轉的網頁
+5. contact.php
+###### 與PORTO人員聯絡的網頁
+6. customize.php
+###### 介紹客製化服務的網頁
+7. index.php
+###### 首頁
+8. info.php
+###### 輸入病歷和個人資料的網頁
+9. member.php
+###### 列明私隱條款的網頁
+10. msgcenter
+###### 留言版(病人與醫生)
+11. profile.php
+###### 顯示已上傳的資料
+12. refresh.php
+###### 5秒後跳轉的網頁
+13. reg.php
+###### 會員註冊的網頁
+14. service.php
+###### 顯示服務流程的網頁
+15. upload.php
+###### 上傳病歷和診斷報告的網頁
