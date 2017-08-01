@@ -22,7 +22,6 @@ h1 {
 
 .black{
 	color:#232854;
-	padding:15px 0;
 }
 
 /* Round Class */
@@ -165,6 +164,9 @@ h1 {
 
   .featurette-heading {
     font-size: 50px;
+  }
+  .black{
+	padding:15px 0;
   }
 }
 
